@@ -23,6 +23,7 @@ I have **5+ years of experience** using the Odoo framework.
 - REST API Development using Odoo as a framework.
 - Work on multiple projects as a project team member.
 - Convert Web Design to Odoo framework.
+- Convert design to responsive website using HTML, CSS & JavaScript.
 <!-- WHATIDO:END -->
 
 ## 📫 How to reach me?
