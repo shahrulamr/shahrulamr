@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Shahrul! ID 📍 Web Developer | Odoo ERP Developer | Odoo ERP Programmer
+# 👋 Hi there, I'm Shahrul! ID
+# 📍 Web Developer | Odoo ERP Developer | Odoo ERP Programmer
 
 [![Linkedin: shahrul-amirudin](https://img.shields.io/badge/-Shahrul%20Amr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahrul-amirudin/)](https://www.linkedin.com/in/shahrul-amirudin/)
 
