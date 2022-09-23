@@ -14,7 +14,7 @@ I have **5+ years of experience** using the Odoo framework.
 - Customization for Import, Report, Email, etc. 👍👍
 - Develop functional and tested web applications using Odoo as framework.
 - Front-End and Back-End Development.
-- Install Odoo to Linux Server.
+- Install/Setup Odoo to VPS (Linux server).
 - Integration of third-party API to Odoo.
 - Optimize slow Odoo ORM with SQL query.
 - Implement an eCommerce site with Odoo.
