@@ -29,5 +29,5 @@ I have **5+ years of experience** using the Odoo framework.
 
 I always do my best at my work, feel free to reach me if you need services or just question.
 
-* 💬 [Email (shahrulmpv@gmail.com)](mailto:shahrulmpv@gmail.com)
-* 💬 [linkedin](https://www.linkedin.com/in/shahrul-amirudin)
+* 📧 [Email (shahrulmpv@gmail.com)](mailto:shahrulmpv@gmail.com)
+* 💬 [LinkedIn](https://www.linkedin.com/in/shahrul-amirudin)
