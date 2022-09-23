@@ -1,10 +1,11 @@
 # 👋 Hi there, I'm Shahrul!
 # 📍 Web Developer | Odoo Developer | Odoo ERP Programmer
 
-[![Linkedin: shahrul-amirudin](https://img.shields.io/badge/-Shahrul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahrul-amirudin/)](https://www.linkedin.com/in/shahrul-amirudin/)
+[![Linkedin: shahrul-amirudin](https://img.shields.io/badge/-Shahrul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahrul-amirudin)](https://www.linkedin.com/in/shahrul-amirudin)
 
 I'm **Shahrul** (he/him). I'm Odoo Developer by profession and passion, I now living in Indonesia. I start as Odoo developer in 2016.
-I have 5+ years of experience using the Odoo framework.
+
+I have **5+ years of experience** using the Odoo framework.
 
 ## 💪 What I can do?
 
@@ -29,3 +30,4 @@ I have 5+ years of experience using the Odoo framework.
 I always do my best at my work, feel free to reach me if you need services or just question.
 
 * 💬 [Email (shahrulmpv@gmail.com)](mailto:shahrulmpv@gmail.com)
+* 💬 [linkedin](https://www.linkedin.com/in/shahrul-amirudin)
